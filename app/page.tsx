@@ -18,7 +18,7 @@ export default function Portfolio() {
           <span className="text-red-500 font-normal italic">& Chief Operator of Ground-Level Mesh Networks</span>
         </h2>
         <p className="text-lg text-gray-400 max-w-2xl leading-relaxed">
-          I used to optimize 5G network speeds and manage hardware deployments. Now, I optimize dynamic cross-harbor routes and manage biological packet routing. 
+          I am used to optimising 5G network speeds and manage hardware deployments. Now, I also optimize dynamic cross-harbor routes and manage biological packet routing. 
         </p>
       </header>
 
@@ -34,7 +34,7 @@ export default function Portfolio() {
             </h3>
             <div className="space-y-4 text-gray-300 leading-relaxed text-lg">
               <p>
-                For over a decade, I worked as a Field Design Engineer for a certain fruit-themed tech giant. My days were spent managing hardware deployments, evaluating network slicing, launching flagship retail spaces, and ensuring massive systems ran without a hitch.
+                For over a decade, I work as a Wireless Systems Engineer for a certain fruit-themed tech giant. My days were spent managing hardware deployments, evaluating network slicing, launching flagship retail spaces, and ensuring massive systems ran without a hitch. If your phone freezes back there I can probably fix it, but right now my bandwidth is strictly allocated to physical transport. I treat my passengers like high-priority data packets: securely routed, delivered with minimal jitter, and absolutely zero packet loss (please don't leave your phone in the back seat). 
               </p>
               <p>
                 Recently, I decided to swap RF signal propagation for street-level navigation in Hong Kong. I trade high-latency cellular environments for the ultimate high-latency environment: the Cross-Harbour Tunnel at 6 PM.
@@ -52,7 +52,7 @@ export default function Portfolio() {
                 After getting my taxi license, I quickly realized that tracking daily earnings, fuel, and operating expenses on the road was unnecessarily manual.
               </p>
               <p className="text-gray-300 leading-relaxed">
-                So, I did what any engineer would do: I built a solution. I am currently developing a custom Next.js and Supabase progressive web application specifically for Hong Kong drivers. It handles the math and the data tracking so I can keep my eyes on the road. Managing a transport business shouldn't be harder than configuring a dynamic network architecture.
+                So, I did what any engineer would do: I built a solution. I am currently developing a custom Next.js and Supabase progressive web application specifically for myself. It handles the math and the data tracking so I can keep my eyes on the road. Managing a transport business shouldn't be harder than configuring a dynamic network architecture.
               </p>
             </div>
           </section>
