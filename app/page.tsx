@@ -6,6 +6,7 @@ const content = {
   en: {
     badge: "Available for Routing",
     name: "Vincent Lam",
+    phone: "6026 0593",
     title1: "Senior Terrestrial Mobility Routing Engineer",
     title2: "& Chief Operator of Ground-Level Mesh Networks",
     heroDesc: "I used to optimize 5G network speeds and manage hardware deployments. Now, I optimize dynamic cross-harbor routes and manage biological packet routing.",
@@ -26,6 +27,7 @@ const content = {
   zh: {
     badge: "路由就緒 (可接載)",
     name: "啊徽 | Vincent",
+    phone: "6026 0593",
     title1: "資深地面移動路由工程師",
     title2: "& 地面網狀網絡首席營運官",
     heroDesc: "以前我負責優化 5G 網絡速度和管理硬件部署；現在，我負責優化動態過海路線，並管理生物數據包的傳輸。",
