@@ -95,7 +95,7 @@ export default function Portfolio() {
       {/* Footer */}
       <footer className="border-t border-gray-900 py-12 text-center text-gray-500 text-sm mt-12">
         <p>Built with Next.js. Engineered for 99.9% uptime (traffic permitting).</p>
-        <p className="mt-2">© {new Date().getFullYear()} Vincent Lam</p>
+        <p className="mt-2">© 2026 Vincent Lam</p>
       </footer>
     </div>
   );
