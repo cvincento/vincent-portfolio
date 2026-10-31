@@ -77,9 +77,17 @@ export default function Portfolio() {
             {t.badge}
           </span>
         </div>
-        <h1 className="text-5xl md:text-7xl font-extrabold text-white tracking-tight leading-tight mb-6">
+        <h1 className="text-5xl md:text-7xl font-extrabold text-white tracking-tight leading-tight mb-2">
           {t.name}
         </h1>
+        
+        {/* Render Phone Number Here */}
+        <div className="mb-6">
+          <a href={`tel:+852${t.phone.replace(/\s+/g, '')}`} className="text-xl md:text-2xl font-medium text-red-500 hover:text-red-400 transition-colors tracking-wide">
+            📞 +852 {t.phone}
+          </a>
+        </div>
+
         <h2 className="text-2xl md:text-3xl font-medium text-gray-400 mb-8">
           {t.title1} <br className="hidden md:block"/> 
           <span className="text-red-500 font-normal italic">{t.title2}</span>
