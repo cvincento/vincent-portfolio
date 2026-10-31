@@ -92,7 +92,7 @@ export default function Portfolio() {
           
           {/* WhatsApp Action Button */}
           <a 
-            href={`https://wa.me/852${t.phone.replace(/\s+/g, '')}?text=${encodeURIComponent("Hi Vincent! I'm viewing your TaxiYield profile.")}`} 
+            href={`https://wa.me/852${t.phone.replace(/\s+/g, '')}?text=${encodeURIComponent("Hi Vincent! I'm viewing your profile. Let's exchange contacts. 司機大哥你好！Send 畀你留底作記錄，日後有需要 Call車再 WhatsApp 搵你。")}`} 
             target="_blank" 
             rel="noopener noreferrer" 
             className="flex items-center px-5 py-2 bg-[#25D366] hover:bg-[#1EBE57] text-white text-sm md:text-base font-bold rounded-full transition-colors shadow-lg shadow-[#25D366]/20"
