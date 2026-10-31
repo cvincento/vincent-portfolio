@@ -17,7 +17,7 @@ const content = {
     appTitle: "The Next.js Driver Platform",
     appP1: "After getting my taxi license, I quickly realized that tracking daily earnings, fuel, and operating expenses on the road was unnecessarily manual.",
     appP2: "So, I did what any engineer would do: I built a solution. I am currently developing a custom Next.js and Supabase progressive web application specifically for Hong Kong drivers. It handles the math and the data tracking so I can keep my eyes on the road. Managing a transport business shouldn't be harder than configuring a dynamic network architecture.",
-    icebreakerTitle: "Rearview Mirror Icebreakers",
+    icebreakerTitle: "The Engineer in the Rearview Mirror",
     ice1: "\"I spent years working for the company that probably made the phone in your pocket. If it freezes back there I can probably fix it, but right now my bandwidth is strictly allocated to physical transport.\"",
     ice2: "\"Don't worry if the GPS gets confused between the skyscrapers in Central. I used to process raw GNSS satellite ground-truth logs—I am the backup navigation system.\"",
     ice3: "\"My last job was ensuring seamless handovers between cell towers. Getting you to the curbside without spilling your coffee is a very similar protocol.\"",
